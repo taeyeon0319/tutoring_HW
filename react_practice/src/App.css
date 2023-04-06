@@ -1,0 +1,73 @@
+.navbar_box{
+  border-bottom:1px solid #e5e5e5;
+  border-top:1px solid #e5e5e5;
+  padding: 5px;
+}
+
+.box_shawdow{
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+#navbarNav{
+  justify-content: end;
+  margin-right:10px;
+}
+
+.main{
+  height:550px;
+}
+
+.title{
+  text-align: center;
+  width:700px;
+  margin: 70px auto 45px;
+}
+
+.main_card{
+  width:max-content;
+  margin:0 auto;
+}
+
+.card{
+  width:280px;
+  float:left;
+  margin:0 auto;
+}
+
+.card_l{
+  margin-right:20px;
+}
+
+.money_bold{
+  font-weight: bolder;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+button{
+  width:250px;
+}
+
+footer{
+  width:880px;
+  margin:0 auto;
+}
+
+.ide:hover{
+  text-decoration:underline;
+}
+
+.ide{
+  text-decoration-line: none;
+}
+
+.ide:link{
+  text-decoration-color: black;
+}
+
+h5{
+  font-weight: bold;
+}
+
